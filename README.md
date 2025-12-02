@@ -24,8 +24,8 @@ Bu oyunu kendi bilgisayarınızda çalıştırmak için Python yüklü olmalıd�
 1. Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/yusufyslcck/Py-Fighter.git
-cd Py-Fighter
+git clone https://github.com/yusufyslcck/Py-Fighter-Game.git
+cd Py-Fighter-Game
 ```
 
 2. Gerekli kütüphaneyi yükleyin (Pygame):
