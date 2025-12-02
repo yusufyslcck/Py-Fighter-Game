@@ -56,7 +56,3 @@ python .\code\main.py
 - **`assets/`**: Görseller, sesler ve sprite'lar
   - `assets/player/` `assets/enemy/` `assets/terrain/` vb.
 
-## 🛠️ Geliştirme ve Katkı
-Projeye katkı yapmak isterseniz:
-- Fork → Branch → Pull Request iş akışını kullanın.
-- Yeni bir özellik eklerken `code/` altındaki dosyalara küçük, odaklı değişiklikler yapın.
